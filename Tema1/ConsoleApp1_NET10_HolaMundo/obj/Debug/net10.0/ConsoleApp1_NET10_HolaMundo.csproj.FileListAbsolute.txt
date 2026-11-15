@@ -1,0 +1,15 @@
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\bin\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\bin\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.deps.json
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\bin\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.runtimeconfig.json
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\bin\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.dll
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\bin\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.AssemblyInfoInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.AssemblyInfo.cs
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.dll
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\refint\ConsoleApp1_NET10_HolaMundo.dll
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ConsoleApp1_NET10_HolaMundo.genruntimeconfig.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ref\ConsoleApp1_NET10_HolaMundo.dll
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_NET10_HolaMundo\obj\Debug\net10.0\ConsoleA.4A169E27.Up2Date

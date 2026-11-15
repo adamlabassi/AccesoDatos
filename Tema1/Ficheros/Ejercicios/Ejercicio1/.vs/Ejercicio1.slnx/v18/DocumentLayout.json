@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4556B8-1D10-4AEC-A6E3-699BEE82F7CB}|..\\Ejercicio4\\Ejercicio4.csproj|c:\\users\\ayael\\onedrive\\documentos\\2_dam\\accesodatos\\tema1\\ficheros\\ejercicios\\ejercicio4\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC4556B8-1D10-4AEC-A6E3-699BEE82F7CB}|..\\Ejercicio4\\Ejercicio4.csproj|c:\\users\\ayael\\onedrive\\documentos\\2_dam\\accesodatos\\tema1\\ficheros\\ejercicios\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5336737-2D4F-4D9D-89BD-A6160CD51FF5}|..\\Ejercicio2\\Ejercicio2.csproj|c:\\users\\ayael\\onedrive\\documentos\\2_dam\\accesodatos\\tema1\\ficheros\\ejercicios\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF702609-EA0F-4E2B-A9F3-B5408201D046}|Ejercicio1.csproj|C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF702609-EA0F-4E2B-A9F3-B5408201D046}|Ejercicio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio4\\Coche.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio4\\Coche.cs",
+              "ToolTip": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio4\\Coche.cs",
+              "RelativeToolTip": "..\\Ejercicio4\\Coche.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:36:17.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:27:33.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:30:58.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\Ficheros\\Ejercicios\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T15:11:34.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

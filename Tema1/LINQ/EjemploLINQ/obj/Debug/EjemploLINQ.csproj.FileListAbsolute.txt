@@ -1,0 +1,7 @@
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\EjemploLINQ\bin\Debug\EjemploLINQ.exe.config
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\EjemploLINQ\bin\Debug\EjemploLINQ.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\EjemploLINQ\bin\Debug\EjemploLINQ.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\EjemploLINQ\obj\Debug\EjemploLINQ.csproj.AssemblyReference.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\EjemploLINQ\obj\Debug\EjemploLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\EjemploLINQ\obj\Debug\EjemploLINQ.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\EjemploLINQ\obj\Debug\EjemploLINQ.pdb

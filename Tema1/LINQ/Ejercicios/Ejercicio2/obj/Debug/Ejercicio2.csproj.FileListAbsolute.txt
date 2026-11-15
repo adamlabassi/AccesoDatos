@@ -1,0 +1,7 @@
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\Ejercicios\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\LINQ\Ejercicios\Ejercicio2\obj\Debug\Ejercicio2.pdb

@@ -1,0 +1,7 @@
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjerciciosPOO\EjercicioVehiculos\bin\Debug\EjercicioVehiculos.exe.config
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjerciciosPOO\EjercicioVehiculos\bin\Debug\EjercicioVehiculos.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjerciciosPOO\EjercicioVehiculos\bin\Debug\EjercicioVehiculos.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjerciciosPOO\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.csproj.AssemblyReference.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjerciciosPOO\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjerciciosPOO\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjerciciosPOO\EjercicioVehiculos\obj\Debug\EjercicioVehiculos.pdb

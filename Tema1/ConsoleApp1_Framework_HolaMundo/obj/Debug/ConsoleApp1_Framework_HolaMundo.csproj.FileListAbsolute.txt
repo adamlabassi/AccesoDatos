@@ -1,0 +1,7 @@
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_Framework_HolaMundo\bin\Debug\ConsoleApp1_Framework_HolaMundo.exe.config
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_Framework_HolaMundo\bin\Debug\ConsoleApp1_Framework_HolaMundo.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_Framework_HolaMundo\bin\Debug\ConsoleApp1_Framework_HolaMundo.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_Framework_HolaMundo\obj\Debug\ConsoleApp1_Framework_HolaMundo.csproj.AssemblyReference.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_Framework_HolaMundo\obj\Debug\ConsoleApp1_Framework_HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_Framework_HolaMundo\obj\Debug\ConsoleApp1_Framework_HolaMundo.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\ConsoleApp1_Framework_HolaMundo\obj\Debug\ConsoleApp1_Framework_HolaMundo.pdb

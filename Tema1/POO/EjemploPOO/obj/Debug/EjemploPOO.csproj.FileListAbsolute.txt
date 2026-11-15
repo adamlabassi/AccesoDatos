@@ -1,0 +1,7 @@
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjemploPOO\bin\Debug\EjemploPOO.exe.config
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjemploPOO\bin\Debug\EjemploPOO.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjemploPOO\bin\Debug\EjemploPOO.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjemploPOO\obj\Debug\EjemploPOO.csproj.AssemblyReference.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjemploPOO\obj\Debug\EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjemploPOO\obj\Debug\EjemploPOO.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Tema1\POO\EjemploPOO\obj\Debug\EjemploPOO.pdb

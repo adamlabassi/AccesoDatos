@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\LINQ\\Ejercicios\\Ejercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD10053-50DE-4AB4-ACA5-7BDB212E1A77}|..\\Ejercicio2\\Ejercicio2.csproj|c:\\users\\ayael\\onedrive\\documentos\\2_dam\\accesodatos\\tema1\\linq\\ejercicios\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B689A793-84DB-438C-90A8-F058AFFE92D5}|Ejercicios.csproj|C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\LINQ\\Ejercicios\\Ejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B689A793-84DB-438C-90A8-F058AFFE92D5}|Ejercicios.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\LINQ\\Ejercicios\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\LINQ\\Ejercicios\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:42:12.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\LINQ\\Ejercicios\\Ejercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ayael\\OneDrive\\Documentos\\2_DAM\\accesoDatos\\Tema1\\LINQ\\Ejercicios\\Ejercicios\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T15:18:48.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
