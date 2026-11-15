@@ -1,0 +1,14 @@
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\bin\Debug\net10.0\Tema02_Ficheros.exe
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\bin\Debug\net10.0\Tema02_Ficheros.deps.json
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\bin\Debug\net10.0\Tema02_Ficheros.runtimeconfig.json
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\bin\Debug\net10.0\Tema02_Ficheros.dll
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\bin\Debug\net10.0\Tema02_Ficheros.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\Tema02_Ficheros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\Tema02_Ficheros.AssemblyInfoInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\Tema02_Ficheros.AssemblyInfo.cs
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\Tema02_Ficheros.csproj.CoreCompileInputs.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\Tema02_Ficheros.dll
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\refint\Tema02_Ficheros.dll
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\Tema02_Ficheros.pdb
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\Tema02_Ficheros.genruntimeconfig.cache
+C:\Users\ayael\OneDrive\Documentos\2_DAM\accesoDatos\Ejercicios_T02_T03\Tema02_Ficheros\obj\Debug\net10.0\ref\Tema02_Ficheros.dll
